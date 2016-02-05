@@ -1,4 +1,6 @@
 # MNIST-CNN
+This is a repository for GPU acceleration of Machine Learning algorithms, including CNN and MLP.
+This repository is expected to continuously be maintained.
 ----------------------------------
 ## First Author
 [Ziyang Qi](https://github.com/qizy09)
